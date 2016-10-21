@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DrawerLayout</string>
+    <string name="openDrawer">Open Drawer </string>
+    <string name="closeDrawer">Close Drawer </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
